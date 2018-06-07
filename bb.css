@@ -1,0 +1,8 @@
+p {
+  width: 5 px;
+  border: 5 px solid red;
+  background: red;
+}
+button:hover {
+  border: 1px solid red;
+}
